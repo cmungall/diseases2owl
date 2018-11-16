@@ -1,0 +1,7 @@
+*.gz
+*.zip
+*.obo
+*.owl
+mirror
+catalog-v001.xml
+target
