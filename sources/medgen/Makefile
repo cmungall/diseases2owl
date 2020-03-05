@@ -35,6 +35,9 @@ medgen-disease-extract.obo: x-Disease-or-Syndrome.obo x-Neoplastic-Process.obo
 medgen-disease-extract.json: medgen-disease-extract.obo
 	owltools $< -o -f json $@
 
+medgen-disease-extract.owl: medgen-disease-extract.obo
+	owltools $< -o $@
+
 
 # ----------------------------------------
 # Cycles	

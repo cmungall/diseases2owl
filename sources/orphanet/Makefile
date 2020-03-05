@@ -5,6 +5,7 @@
 OBO=http://purl.obolibrary.org/obo
 TGT=../../target/
 PRODUCTS = obo_orphanet.owl obo_orphanet.obo
+OIO = http://www.geneontology.org/formats/oboInOwl#
 
 all:  build stage
 build:  $(PRODUCTS)
@@ -26,13 +27,18 @@ EFO2OBO_OPTS = --rename-entity $(EFO)/definition $(OBO)/IAO_0000115 \
            --rename-entity $(OBO)/ECO_0000218 $(OIO)source
 
 
-# STEP 0: DOWNLOAD
-ordo_orphanet.owl.zip:
-	wget --no-check-certificate http://www.orphadata.org/data/ORDO/ordo_orphanet.owl.zip -O $@  && touch $@
+V=2.8
 
-ordo_orphanet.owl: ordo_orphanet.owl.zip
-	unzip  ordo_orphanet.owl.zip -d .
-	touch $@
+# STEP 0: DOWNLOAD
+#ordo_orphanet.owl.zip:
+#	curl -L -s http://www.orphadata.org/data/ORDO/ordo_orphanet.owl.zip > $@.tmp  && mv $@.tmp $@
+
+#ordo_orphanet.owl: ordo_orphanet.owl.zip
+#	unzip  ordo_orphanet.owl.zip -d .
+#	touch $@
+
+ordo_orphanet.owl:
+	curl -L -s http://www.orphadata.org/data/ORDO/ORDO_en_$(V).owl > $@.tmp && mv $@.tmp $@
 
 # STEP 1: FIX URIs
 obo_orphanet_1.owl: ordo_orphanet.owl
