@@ -27,7 +27,7 @@ EFO2OBO_OPTS = --rename-entity $(EFO)/definition $(OBO)/IAO_0000115 \
            --rename-entity $(OBO)/ECO_0000218 $(OIO)source
 
 
-V=2.8
+V=2.9.1
 
 # STEP 0: DOWNLOAD
 #ordo_orphanet.owl.zip:
