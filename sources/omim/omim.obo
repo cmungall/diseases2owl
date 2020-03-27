@@ -61416,1862 +61416,1862 @@ id: OMIM:618687
 name: Intellectual Developmental Disorder With Short Stature and Behavioral Abnormalities
 
 [Term]
-id: OMIMPS:PS100070
+id: OMIMPS:100070
 name: Aortic aneurysm, familial abdominal
 
 [Term]
-id: OMIMPS:PS100300
+id: OMIMPS:100300
 name: Adams-Oliver syndrome
 
 [Term]
-id: OMIMPS:PS101800
+id: OMIMPS:101800
 name: Acrodysostosis
 
 [Term]
-id: OMIMPS:PS102200
+id: OMIMPS:102200
 name: Pituitary adenoma
 
 [Term]
-id: OMIMPS:PS102300
+id: OMIMPS:102300
 name: Restless legs syndrome
 
 [Term]
-id: OMIMPS:PS103900
+id: OMIMPS:103900
 name: Hyperaldosteronism
 
 [Term]
-id: OMIMPS:PS104290
+id: OMIMPS:104290
 name: Alternating hemiplegia of childhood
 
 [Term]
-id: OMIMPS:PS104500
+id: OMIMPS:104500
 name: Amelogenesis imperfecta
 
 [Term]
-id: OMIMPS:PS105250
+id: OMIMPS:105250
 name: Amyloidosis, primary localized cutaneous
 
 [Term]
-id: OMIMPS:PS105400
+id: OMIMPS:105400
 name: Amyotrophic lateral sclerosis
 
 [Term]
-id: OMIMPS:PS105550
+id: OMIMPS:105550
 name: Frontotemporal dementia and/or Amyotrophic Lateral Sclerosis
 
 [Term]
-id: OMIMPS:PS105650
+id: OMIMPS:105650
 name: Diamond-Blackfan anemia
 
 [Term]
-id: OMIMPS:PS105800
+id: OMIMPS:105800
 name: Aneurysm, intracranial berry
 
 [Term]
-id: OMIMPS:PS106210
+id: OMIMPS:106210
 name: Aniridia
 
 [Term]
-id: OMIMPS:PS106300
+id: OMIMPS:106300
 name: Spondyloarthropathy, susceptibility to
 
 [Term]
-id: OMIMPS:PS106600
+id: OMIMPS:106600
 name: Tooth agenesis, selective
 
 [Term]
-id: OMIMPS:PS107250
+id: OMIMPS:107250
 name: Anterior segment dysgenesis
 
 [Term]
-id: OMIMPS:PS107480
+id: OMIMPS:107480
 name: Townes-Brocks syndrome
 
 [Term]
-id: OMIMPS:PS107970
+id: OMIMPS:107970
 name: Arrhythmogenic right ventricular dysplasia
 
 [Term]
-id: OMIMPS:PS108120
+id: OMIMPS:108120
 name: Arthrogryposis, distal
 
 [Term]
-id: OMIMPS:PS108300
+id: OMIMPS:108300
 name: Stickler syndrome
 
 [Term]
-id: OMIMPS:PS108600
+id: OMIMPS:108600
 name: Spastic ataxia
 
 [Term]
-id: OMIMPS:PS108720
+id: OMIMPS:108720
 name: Atelosteogenesis
 
 [Term]
-id: OMIMPS:PS108800
+id: OMIMPS:108800
 name: Atrial septal defect
 
 [Term]
-id: OMIMPS:PS109720
+id: OMIMPS:109720
 name: Biliary cirrhosis, primary
 
 [Term]
-id: OMIMPS:PS109730
+id: OMIMPS:109730
 name: Aortic valve disease
 
 [Term]
-id: OMIMPS:PS112240
+id: OMIMPS:112240
 name: Cole-Carpenter syndrome
 
 [Term]
-id: OMIMPS:PS113700
+id: OMIMPS:113700
 name: Breasts and/or nipples, aplasia or hypoplasia of
 
 [Term]
-id: OMIMPS:PS113900
+id: OMIMPS:113900
 name: Progressive familial heart block
 
 [Term]
-id: OMIMPS:PS114580
+id: OMIMPS:114580
 name: Familial candidiasis
 
 [Term]
-id: OMIMPS:PS115150
+id: OMIMPS:115150
 name: Cardiofaciocutaneous syndrome
 
 [Term]
-id: OMIMPS:PS115200
+id: OMIMPS:115200
 name: Dilated cardiomyopathy
 
 [Term]
-id: OMIMPS:PS115210
+id: OMIMPS:115210
 name: Familial restrictive cardiomyopathy
 
 [Term]
-id: OMIMPS:PS116200
+id: OMIMPS:116200
 name: Cataract
 
 [Term]
-id: OMIMPS:PS117550
+id: OMIMPS:117550
 name: Sotos syndrome
 
 [Term]
-id: OMIMPS:PS118100
+id: OMIMPS:118100
 name: Klippel-Feil syndrome
 
 [Term]
-id: OMIMPS:PS118220
+id: OMIMPS:118220
 name: Charcot-Marie-Tooth disease
 
 [Term]
-id: OMIMPS:PS118450
+id: OMIMPS:118450
 name: Alagille syndrome
 
 [Term]
-id: OMIMPS:PS119530
+id: OMIMPS:119530
 name: Orofacial cleft
 
 [Term]
-id: OMIMPS:PS119580
+id: OMIMPS:119580
 name: Blepharocheilodontic syndrome
 
 [Term]
-id: OMIMPS:PS120100
+id: OMIMPS:120100
 name: Familial cold autoinflammatory syndrome
 
 [Term]
-id: OMIMPS:PS120435
+id: OMIMPS:120435
 name: Colorectal cancer, hereditary nonpolyposis
 
 [Term]
-id: OMIMPS:PS120970
+id: OMIMPS:120970
 name: Cone-rod dystrophy/Cone dystrophy
 
 [Term]
-id: OMIMPS:PS121200
+id: OMIMPS:121200
 name: Seizures, benign familial neonatal
 
 [Term]
-id: OMIMPS:PS121210
+id: OMIMPS:121210
 name: Seizures, familial febrile
 
 [Term]
-id: OMIMPS:PS121400
+id: OMIMPS:121400
 name: Cornea plana
 
 [Term]
-id: OMIMPS:PS122000
+id: OMIMPS:122000
 name: Corneal dystrophy, posterior polymorphous
 
 [Term]
-id: OMIMPS:PS122470
+id: OMIMPS:122470
 name: Cornelia de Lange syndrome
 
 [Term]
-id: OMIMPS:PS123100
+id: OMIMPS:123100
 name: Craniosynostosis
 
 [Term]
-id: OMIMPS:PS123700
+id: OMIMPS:123700
 name: Cutis laxa
 
 [Term]
-id: OMIMPS:PS124000
+id: OMIMPS:124000
 name: Mitochondrial complex III deficiency, nuclear type
 
 [Term]
-id: OMIMPS:PS124900
+id: OMIMPS:124900
 name: Deafness, autosomal dominant
 
 [Term]
-id: OMIMPS:PS125310
+id: OMIMPS:125310
 name: Cerebral arteriopathy with subcortical infarcts and leukoencephalopathy
 
 [Term]
-id: OMIMPS:PS126200
+id: OMIMPS:126200
 name: Multiple sclerosis, susceptibility to
 
 [Term]
-id: OMIMPS:PS126800
+id: OMIMPS:126800
 name: Duane retraction syndrome
 
 [Term]
-id: OMIMPS:PS127000
+id: OMIMPS:127000
 name: Kenny-Caffey syndrome
 
 [Term]
-id: OMIMPS:PS127500
+id: OMIMPS:127500
 name: Dyschromatosis universalis hereditaria
 
 [Term]
-id: OMIMPS:PS127550
+id: OMIMPS:127550
 name: Dyskeratosis congenita
 
 [Term]
-id: OMIMPS:PS128100
+id: OMIMPS:128100
 name: Dystonia
 
 [Term]
-id: OMIMPS:PS128200
+id: OMIMPS:128200
 name: Episodic kinesigenic dyskinesia
 
 [Term]
-id: OMIMPS:PS130000
+id: OMIMPS:130000
 name: Ehlers-Danlos syndrome
 
 [Term]
-id: OMIMPS:PS131100
+id: OMIMPS:131100
 name: Multiple endocrine neoplasia
 
 [Term]
-id: OMIMPS:PS132100
+id: OMIMPS:132100
 name: Photoparoxysmal response
 
 [Term]
-id: OMIMPS:PS132400
+id: OMIMPS:132400
 name: Epiphyseal dysplasia, multiple
 
 [Term]
-id: OMIMPS:PS133100
+id: OMIMPS:133100
 name: Erythrocytosis, familial
 
 [Term]
-id: OMIMPS:PS133200
+id: OMIMPS:133200
 name: Erythrokeratodermia variabilis et progressiva
 
 [Term]
-id: OMIMPS:PS133780
+id: OMIMPS:133780
 name: Exudative vitreoretinopathy
 
 [Term]
-id: OMIMPS:PS134600
+id: OMIMPS:134600
 name: Fanconi renotubular syndrome
 
 [Term]
-id: OMIMPS:PS135300
+id: OMIMPS:135300
 name: Gingival fibromatosis
 
 [Term]
-id: OMIMPS:PS135500
+id: OMIMPS:135500
 name: Zimmermann-Laband syndrome
 
 [Term]
-id: OMIMPS:PS135700
+id: OMIMPS:135700
 name: Fibrosis of extraocular muscles, congenital
 
 [Term]
-id: OMIMPS:PS135900
+id: OMIMPS:135900
 name: Coffin-Siris syndrome
 
 [Term]
-id: OMIMPS:PS136500
+id: OMIMPS:136500
 name: Focal facial dermal dysplasia
 
 [Term]
-id: OMIMPS:PS136520
+id: OMIMPS:136520
 name: Foveal hypoplasia
 
 [Term]
-id: OMIMPS:PS136760
+id: OMIMPS:136760
 name: Frontonasal dysplasia
 
 [Term]
-id: OMIMPS:PS136800
+id: OMIMPS:136800
 name: Corneal dystrophy, Fuchs endothelial
 
 [Term]
-id: OMIMPS:PS137800
+id: OMIMPS:137800
 name: Glioma
 
 [Term]
-id: OMIMPS:PS137950
+id: OMIMPS:137950
 name: Glomerulopathy with fibronectin deposits
 
 [Term]
-id: OMIMPS:PS138800
+id: OMIMPS:138800
 name: Goiter, multinodular
 
 [Term]
-id: OMIMPS:PS142623
+id: OMIMPS:142623
 name: Hirschsprung disease
 
 [Term]
-id: OMIMPS:PS142690
+id: OMIMPS:142690
 name: Acne inversa
 
 [Term]
-id: OMIMPS:PS142700
+id: OMIMPS:142700
 name: Developmental dysplasia of the hip
 
 [Term]
-id: OMIMPS:PS143880
+id: OMIMPS:143880
 name: Hypercalcemia, infantile
 
 [Term]
-id: OMIMPS:PS143890
+id: OMIMPS:143890
 name: Hypercholesterolemia, familial
 
 [Term]
-id: OMIMPS:PS145000
+id: OMIMPS:145000
 name: Hyperparathyroidism
 
 [Term]
-id: OMIMPS:PS145260
+id: OMIMPS:145260
 name: Pseudohypoaldosteronism, type II
 
 [Term]
-id: OMIMPS:PS145600
+id: OMIMPS:145600
 name: Malignant hyperthermia
 
 [Term]
-id: OMIMPS:PS145980
+id: OMIMPS:145980
 name: Hypocalciuric hypercalcemia
 
 [Term]
-id: OMIMPS:PS147060
+id: OMIMPS:147060
 name: Hyper-IgE recurrent infection syndrome
 
 [Term]
-id: OMIMPS:PS147920
+id: OMIMPS:147920
 name: Kabuki syndrome
 
 [Term]
-id: OMIMPS:PS147950
+id: OMIMPS:147950
 name: Hypogonadotropic hypogonadism with or without anosmia
 
 [Term]
-id: OMIMPS:PS148300
+id: OMIMPS:148300
 name: Keratoconus
 
 [Term]
-id: OMIMPS:PS149400
+id: OMIMPS:149400
 name: Hyperekplexia
 
 [Term]
-id: OMIMPS:PS151100
+id: OMIMPS:151100
 name: LEOPARD syndrome
 
 [Term]
-id: OMIMPS:PS151623
+id: OMIMPS:151623
 name: Li-Fraumeni syndrome
 
 [Term]
-id: OMIMPS:PS151660
+id: OMIMPS:151660
 name: Lipodystrophy, familial partial
 
 [Term]
-id: OMIMPS:PS153100
+id: OMIMPS:153100
 name: Lymphatic malformation
 
 [Term]
-id: OMIMPS:PS153840
+id: OMIMPS:153840
 name: Macular dystrophy, vitelliform
 
 [Term]
-id: OMIMPS:PS154500
+id: OMIMPS:154500
 name: Treacher Collins syndrome
 
 [Term]
-id: OMIMPS:PS155600
+id: OMIMPS:155600
 name: Melanoma, cutaneous malignant
 
 [Term]
-id: OMIMPS:PS156200
+id: OMIMPS:156200
 name: Mental retardation, autosomal dominant
 
 [Term]
-id: OMIMPS:PS156610
+id: OMIMPS:156610
 name: Skin creases, congenital symmetric circumferential
 
 [Term]
-id: OMIMPS:PS157600
+id: OMIMPS:157600
 name: Mirror movements
 
 [Term]
-id: OMIMPS:PS157640
+id: OMIMPS:157640
 name: Progressive external ophthalmoplegia with mtDNA deletions
 
 [Term]
-id: OMIMPS:PS157700
+id: OMIMPS:157700
 name: Mitral valve prolapse, myxomatous
 
 [Term]
-id: OMIMPS:PS158350
+id: OMIMPS:158350
 name: Cowden disease
 
 [Term]
-id: OMIMPS:PS158600
+id: OMIMPS:158600
 name: Spinal muscular atrophy, lower extremity-predominant
 
 [Term]
-id: OMIMPS:PS158810
+id: OMIMPS:158810
 name: Bethlem myopathy
 
 [Term]
-id: OMIMPS:PS160120
+id: OMIMPS:160120
 name: Episodic ataxia
 
 [Term]
-id: OMIMPS:PS160150
+id: OMIMPS:160150
 name: Myopathy, centronuclear
 
 [Term]
-id: OMIMPS:PS160565
+id: OMIMPS:160565
 name: Myopathy, tubular aggregate
 
 [Term]
-id: OMIMPS:PS160700
+id: OMIMPS:160700
 name: Myopia
 
 [Term]
-id: OMIMPS:PS160900
+id: OMIMPS:160900
 name: Myotonic dystrophy
 
 [Term]
-id: OMIMPS:PS161050
+id: OMIMPS:161050
 name: Nail disorder, nonsyndromic congenital
 
 [Term]
-id: OMIMPS:PS161400
+id: OMIMPS:161400
 name: Narcolepsy
 
 [Term]
-id: OMIMPS:PS161800
+id: OMIMPS:161800
 name: Nemaline myopathy
 
 [Term]
-id: OMIMPS:PS161950
+id: OMIMPS:161950
 name: IgA nephropathy
 
 [Term]
-id: OMIMPS:PS162000
+id: OMIMPS:162000
 name: Hyperuricemic nephropathy, familial juvenile
 
 [Term]
-id: OMIMPS:PS162091
+id: OMIMPS:162091
 name: Schwannomatosis
 
 [Term]
-id: OMIMPS:PS162400
+id: OMIMPS:162400
 name: Hereditary sensory and autonomic neuropathy
 
 [Term]
-id: OMIMPS:PS163950
+id: OMIMPS:163950
 name: Noonan syndrome
 
 [Term]
-id: OMIMPS:PS164280
+id: OMIMPS:164280
 name: Feingold syndrome
 
 [Term]
-id: OMIMPS:PS164400
+id: OMIMPS:164400
 name: Spinocerebellar ataxia
 
 [Term]
-id: OMIMPS:PS165500
+id: OMIMPS:165500
 name: Optic atrophy
 
 [Term]
-id: OMIMPS:PS166200
+id: OMIMPS:166200
 name: Osteogenesis imperfecta
 
 [Term]
-id: OMIMPS:PS166780
+id: OMIMPS:166780
 name: Otofaciocervical syndrome
 
 [Term]
-id: OMIMPS:PS166800
+id: OMIMPS:166800
 name: Otosclerosis
 
 [Term]
-id: OMIMPS:PS167200
+id: OMIMPS:167200
 name: Pachyonychia congenita
 
 [Term]
-id: OMIMPS:PS167250
+id: OMIMPS:167250
 name: Paget disease of bone
 
 [Term]
-id: OMIMPS:PS167320
+id: OMIMPS:167320
 name: Inclusion body myopathy/Paget disease/frontotemporal dementia
 
 [Term]
-id: OMIMPS:PS168000
+id: OMIMPS:168000
 name: Paragangliomas
 
 [Term]
-id: OMIMPS:PS168500
+id: OMIMPS:168500
 name: Parietal foramina
 
 [Term]
-id: OMIMPS:PS168600
+id: OMIMPS:168600
 name: Parkinson disease
 
 [Term]
-id: OMIMPS:PS169150
+id: OMIMPS:169150
 name: Macular dystrophy, patterned
 
 [Term]
-id: OMIMPS:PS173900
+id: OMIMPS:173900
 name: Polycystic kidney disease
 
 [Term]
-id: OMIMPS:PS174050
+id: OMIMPS:174050
 name: Polycystic liver disease
 
 [Term]
-id: OMIMPS:PS174200
+id: OMIMPS:174200
 name: Polydactyly, postaxial
 
 [Term]
-id: OMIMPS:PS174400
+id: OMIMPS:174400
 name: Polydactyly, preaxial
 
 [Term]
-id: OMIMPS:PS175100
+id: OMIMPS:175100
 name: Familial adenomatous polyposis
 
 [Term]
-id: OMIMPS:PS175780
+id: OMIMPS:175780
 name: Brain small vessel disease
 
 [Term]
-id: OMIMPS:PS175800
+id: OMIMPS:175800
 name: Porokeratosis
 
 [Term]
-id: OMIMPS:PS176400
+id: OMIMPS:176400
 name: Precocious puberty, central
 
 [Term]
-id: OMIMPS:PS176670
+id: OMIMPS:176670
 name: Progeria
 
 [Term]
-id: OMIMPS:PS177000
+id: OMIMPS:177000
 name: Protoporphyria, erythropoietic
 
 [Term]
-id: OMIMPS:PS177200
+id: OMIMPS:177200
 name: Liddle syndrome
 
 [Term]
-id: OMIMPS:PS177900
+id: OMIMPS:177900
 name: Psoriasis
 
 [Term]
-id: OMIMPS:PS178110
+id: OMIMPS:178110
 name: Contractures, pterygia, and variable skeletal fusions syndrome
 
 [Term]
-id: OMIMPS:PS178600
+id: OMIMPS:178600
 name: Pulmonary hypertension, primary
 
 [Term]
-id: OMIMPS:PS179010
+id: OMIMPS:179010
 name: Pyloric stenosis, infantile hypertrophic
 
 [Term]
-id: OMIMPS:PS179850
+id: OMIMPS:179850
 name: Reticulate pigment disorders
 
 [Term]
-id: OMIMPS:PS180500
+id: OMIMPS:180500
 name: Axenfeld-Rieger syndrome
 
 [Term]
-id: OMIMPS:PS180849
+id: OMIMPS:180849
 name: Rubinstein-Taybi syndrome
 
 [Term]
-id: OMIMPS:PS182250
+id: OMIMPS:182250
 name: Singleton-Merten syndrome
 
 [Term]
-id: OMIMPS:PS183600
+id: OMIMPS:183600
 name: Split-hand/foot malformation
 
 [Term]
-id: OMIMPS:PS184450
+id: OMIMPS:184450
 name: Stuttering, familial persistent
 
 [Term]
-id: OMIMPS:PS184840
+id: OMIMPS:184840
 name: Otospondylmegaepiphyseal dysplasia
 
 [Term]
-id: OMIMPS:PS185800
+id: OMIMPS:185800
 name: Proximal symphalangism
 
 [Term]
-id: OMIMPS:PS186500
+id: OMIMPS:186500
 name: Multiple synostoses syndrome
 
 [Term]
-id: OMIMPS:PS187300
+id: OMIMPS:187300
 name: Telangiectasia, hereditary hemorrhagic
 
 [Term]
-id: OMIMPS:PS187950
+id: OMIMPS:187950
 name: Thrombocythemia
 
 [Term]
-id: OMIMPS:PS188050
+id: OMIMPS:188050
 name: Thrombophilia
 
 [Term]
-id: OMIMPS:PS188550
+id: OMIMPS:188550
 name: Thyroid cancer, nonmedullary
 
 [Term]
-id: OMIMPS:PS188580
+id: OMIMPS:188580
 name: Thyrotoxic periodic paralysis
 
 [Term]
-id: OMIMPS:PS189800
+id: OMIMPS:189800
 name: Preeclampsia/eclampsia
 
 [Term]
-id: OMIMPS:PS190300
+id: OMIMPS:190300
 name: Tremor, hereditary essential
 
 [Term]
-id: OMIMPS:PS190440
+id: OMIMPS:190440
 name: Trigonocephaly, isolated
 
 [Term]
-id: OMIMPS:PS191100
+id: OMIMPS:191100
 name: Tuberous sclerosis
 
 [Term]
-id: OMIMPS:PS191830
+id: OMIMPS:191830
 name: Renal hypodysplasia/aplasia
 
 [Term]
-id: OMIMPS:PS192500
+id: OMIMPS:192500
 name: Long QT syndrome
 
 [Term]
-id: OMIMPS:PS192600
+id: OMIMPS:192600
 name: Cardiomyopathy, familial hypertrophic
 
 [Term]
-id: OMIMPS:PS193000
+id: OMIMPS:193000
 name: Vesicoureteral reflux
 
 [Term]
-id: OMIMPS:PS193100
+id: OMIMPS:193100
 name: Hypophosphatemic rickets
 
 [Term]
-id: OMIMPS:PS193500
+id: OMIMPS:193500
 name: Waardenburg syndrome
 
 [Term]
-id: OMIMPS:PS193900
+id: OMIMPS:193900
 name: White sponge nevus
 
 [Term]
-id: OMIMPS:PS194070
+id: OMIMPS:194070
 name: Wilms tumor
 
 [Term]
-id: OMIMPS:PS200600
+id: OMIMPS:200600
 name: Achondrogenesis
 
 [Term]
-id: OMIMPS:PS201000
+id: OMIMPS:201000
 name: Carpenter syndrome
 
 [Term]
-id: OMIMPS:PS202200
+id: OMIMPS:202200
 name: Glucocorticoid deficiency
 
 [Term]
-id: OMIMPS:PS202700
+id: OMIMPS:202700
 name: Neutropenia, severe congenital
 
 [Term]
-id: OMIMPS:PS203100
+id: OMIMPS:203100
 name: Oculocutaneous albinism
 
 [Term]
-id: OMIMPS:PS203300
+id: OMIMPS:203300
 name: Hermansky-Pudlak syndrome
 
 [Term]
-id: OMIMPS:PS203650
+id: OMIMPS:203650
 name: Alopecia-mental retardation syndrome
 
 [Term]
-id: OMIMPS:PS203655
+id: OMIMPS:203655
 name: Alopecia, isolated
 
 [Term]
-id: OMIMPS:PS204000
+id: OMIMPS:204000
 name: Leber congenital amaurosis
 
 [Term]
-id: OMIMPS:PS206100
+id: OMIMPS:206100
 name: Anemia, hypochromic microcytic, with iron overload
 
 [Term]
-id: OMIMPS:PS208000
+id: OMIMPS:208000
 name: Generalized arterial calcification of infancy
 
 [Term]
-id: OMIMPS:PS208085
+id: OMIMPS:208085
 name: Arthrogryposis, renal dysfunction, and cholestasis
 
 [Term]
-id: OMIMPS:PS208150
+id: OMIMPS:208150
 name: Fetal akinesia deformation sequence
 
 [Term]
-id: OMIMPS:PS208500
+id: OMIMPS:208500
 name: Short-rib thoracic dysplasia
 
 [Term]
-id: OMIMPS:PS208540
+id: OMIMPS:208540
 name: Renal-hepatic-pancreatic dysplasia
 
 [Term]
-id: OMIMPS:PS209850
+id: OMIMPS:209850
 name: Autism, susceptiblity to
 
 [Term]
-id: OMIMPS:PS209900
+id: OMIMPS:209900
 name: Bardet-Biedl syndrome
 
 [Term]
-id: OMIMPS:PS210200
+id: OMIMPS:210200
 name: Methylcrotonylglycinuria
 
 [Term]
-id: OMIMPS:PS210600
+id: OMIMPS:210600
 name: Seckel syndrome
 
 [Term]
-id: OMIMPS:PS210900
+id: OMIMPS:210900
 name: Microcephaly, growth restriction and increased sister chromatid exchange
 
 [Term]
-id: OMIMPS:PS211400
+id: OMIMPS:211400
 name: Bronchiectasis
 
 [Term]
-id: OMIMPS:PS211530
+id: OMIMPS:211530
 name: Brown-Vialetto-Van Laere syndrome
 
 [Term]
-id: OMIMPS:PS211600
+id: OMIMPS:211600
 name: Cholestasis, progressive familial intrahepatic
 
 [Term]
-id: OMIMPS:PS212065
+id: OMIMPS:212065
 name: Congenital disorders of glycosylation, type I
 
 [Term]
-id: OMIMPS:PS212066
+id: OMIMPS:212066
 name: Congenital disorders of glycosylation, type II
 
 [Term]
-id: OMIMPS:PS212750
+id: OMIMPS:212750
 name: Celiac disease
 
 [Term]
-id: OMIMPS:PS213200
+id: OMIMPS:213200
 name: Spinocerebellar ataxia, autosomal recessive
 
 [Term]
-id: OMIMPS:PS213300
+id: OMIMPS:213300
 name: Joubert syndrome
 
 [Term]
-id: OMIMPS:PS213600
+id: OMIMPS:213600
 name: Basal ganglia calcification, idiopathic
 
 [Term]
-id: OMIMPS:PS214100
+id: OMIMPS:214100
 name: Peroxisome biogenesis disorder
 
 [Term]
-id: OMIMPS:PS214150
+id: OMIMPS:214150
 name: Cerebrooculofacioskeletal syndrome
 
 [Term]
-id: OMIMPS:PS214450
+id: OMIMPS:214450
 name: Griscelli syndrome
 
 [Term]
-id: OMIMPS:PS214700
+id: OMIMPS:214700
 name: Diarrhea, congenital
 
 [Term]
-id: OMIMPS:PS215100
+id: OMIMPS:215100
 name: Rhizomelic chondrodysplasia punctata
 
 [Term]
-id: OMIMPS:PS215250
+id: OMIMPS:215250
 name: Sitosterolemia
 
 [Term]
-id: OMIMPS:PS215500
+id: OMIMPS:215500
 name: Choroidal dystrophy, central areolar
 
 [Term]
-id: OMIMPS:PS218330
+id: OMIMPS:218330
 name: Cranioectodermal dysplasia
 
 [Term]
-id: OMIMPS:PS219000
+id: OMIMPS:219000
 name: Fraser syndrome
 
 [Term]
-id: OMIMPS:PS220210
+id: OMIMPS:220210
 name: Ritscher-Schinzel syndrome
 
 [Term]
-id: OMIMPS:PS220290
+id: OMIMPS:220290
 name: Deafness, autosomal recessive
 
 [Term]
-id: OMIMPS:PS220400
+id: OMIMPS:220400
 name: Jervell and Lange-Nielsen syndrome
 
 [Term]
-id: OMIMPS:PS221770
+id: OMIMPS:221770
 name: Polycystic lipomembranous osteodysplasia with sclerosing leukoencephaly
 
 [Term]
-id: OMIMPS:PS221900
+id: OMIMPS:221900
 name: Persistent hyperplastic primary vitreous
 
 [Term]
-id: OMIMPS:PS222470
+id: OMIMPS:222470
 name: Trichohepatoenteric syndrome
 
 [Term]
-id: OMIMPS:PS223360
+id: OMIMPS:223360
 name: Orthostatic hypotension
 
 [Term]
-id: OMIMPS:PS224050
+id: OMIMPS:224050
 name: Cerebellar ataxia, mental retardation, and dysequilibrium
 
 [Term]
-id: OMIMPS:PS224120
+id: OMIMPS:224120
 name: Anemia, congenital dyserythropoietic
 
 [Term]
-id: OMIMPS:PS224690
+id: OMIMPS:224690
 name: Meier-Gorlin syndrome
 
 [Term]
-id: OMIMPS:PS225750
+id: OMIMPS:225750
 name: Aicardi-Goutieres syndrome
 
 [Term]
-id: OMIMPS:PS226400
+id: OMIMPS:226400
 name: Epidermodysplasia verruciformis, susceptibility to
 
 [Term]
-id: OMIMPS:PS227220
+id: OMIMPS:227220
 name: Skin/hair/eye pigmentation, variation in
 
 [Term]
-id: OMIMPS:PS227650
+id: OMIMPS:227650
 name: Fanconi anemia
 
 [Term]
-id: OMIMPS:PS228520
+id: OMIMPS:228520
 name: Fibrochondrogenesis
 
 [Term]
-id: OMIMPS:PS228550
+id: OMIMPS:228550
 name: Infantile myofibromatosis
 
 [Term]
-id: OMIMPS:PS229200
+id: OMIMPS:229200
 name: Brittle cornea syndrome
 
 [Term]
-id: OMIMPS:PS231050
+id: OMIMPS:231050
 name: Geleophysic dysplasia
 
 [Term]
-id: OMIMPS:PS231090
+id: OMIMPS:231090
 name: Hydatidiform mole, recurrent
 
 [Term]
-id: OMIMPS:PS231200
+id: OMIMPS:231200
 name: Bleeding disorder, platelet-type
 
 [Term]
-id: OMIMPS:PS233300
+id: OMIMPS:233300
 name: Ovarian dysgenesis
 
 [Term]
-id: OMIMPS:PS233400
+id: OMIMPS:233400
 name: Perrault syndrome
 
 [Term]
-id: OMIMPS:PS234200
+id: OMIMPS:234200
 name: Neurodegeneration with brain iron accumulation
 
 [Term]
-id: OMIMPS:PS235200
+id: OMIMPS:235200
 name: Hemochromatosis
 
 [Term]
-id: OMIMPS:PS235400
+id: OMIMPS:235400
 name: Hemolytic uremic syndrome
 
 [Term]
-id: OMIMPS:PS235510
+id: OMIMPS:235510
 name: Hennekam lymphangiectasia-lymphedema syndrome
 
 [Term]
-id: OMIMPS:PS236100
+id: OMIMPS:236100
 name: Holoprosencephaly
 
 [Term]
-id: OMIMPS:PS236600
+id: OMIMPS:236600
 name: Hydrocephalus, congenital
 
 [Term]
-id: OMIMPS:PS236670
+id: OMIMPS:236670
 name: Muscular dystrophy-dystroglycanopathy, type A
 
 [Term]
-id: OMIMPS:PS236680
+id: OMIMPS:236680
 name: Hydrolethalus syndrome
 
 [Term]
-id: OMIMPS:PS236730
+id: OMIMPS:236730
 name: Urofacial syndrome
 
 [Term]
-id: OMIMPS:PS237450
+id: OMIMPS:237450
 name: Hyperbilirubinemia
 
 [Term]
-id: OMIMPS:PS239300
+id: OMIMPS:239300
 name: Hyperphosphatasia with mental retardation syndrome
 
 [Term]
-id: OMIMPS:PS241550
+id: OMIMPS:241550
 name: Hypoplastic left heart syndrome
 
 [Term]
-id: OMIMPS:PS242300
+id: OMIMPS:242300
 name: Ichthyosis, congenital, autosomal recessive
 
 [Term]
-id: OMIMPS:PS242860
+id: OMIMPS:242860
 name: Immunodeficiency-centromeric instability-facial anomalies
 
 [Term]
-id: OMIMPS:PS243300
+id: OMIMPS:243300
 name: Cholestasis, benign recurrent intrahepatic
 
 [Term]
-id: OMIMPS:PS243310
+id: OMIMPS:243310
 name: Baraitser-Winter syndrome
 
 [Term]
-id: OMIMPS:PS244400
+id: OMIMPS:244400
 name: Primary ciliary dyskinesia
 
 [Term]
-id: OMIMPS:PS245480
+id: OMIMPS:245480
 name: Specific granule deficiency
 
 [Term]
-id: OMIMPS:PS248370
+id: OMIMPS:248370
 name: Mandibuloacral dysplasia with lipodystrophy
 
 [Term]
-id: OMIMPS:PS248600
+id: OMIMPS:248600
 name: Maple syrup urine disease
 
 [Term]
-id: OMIMPS:PS249000
+id: OMIMPS:249000
 name: Meckel syndrome
 
 [Term]
-id: OMIMPS:PS249270
+id: OMIMPS:249270
 name: Thiamine-responsive dysfunction syndrome
 
 [Term]
-id: OMIMPS:PS249500
+id: OMIMPS:249500
 name: Mental retardation, autosomal recessive
 
 [Term]
-id: OMIMPS:PS250950
+id: OMIMPS:250950
 name: 3-Methylglutaconic aciduria
 
 [Term]
-id: OMIMPS:PS251200
+id: OMIMPS:251200
 name: Microcephaly, primary autosomal recessive
 
 [Term]
-id: OMIMPS:PS251270
+id: OMIMPS:251270
 name: Microcephaly and chorioretinopathy
 
 [Term]
-id: OMIMPS:PS251280
+id: OMIMPS:251280
 name: Diencephalic-mesencephalic junction dysplasia syndrome
 
 [Term]
-id: OMIMPS:PS251290
+id: OMIMPS:251290
 name: Pseudo-TORCH syndrome
 
 [Term]
-id: OMIMPS:PS251300
+id: OMIMPS:251300
 name: Galloway-Mowat syndrome
 
 [Term]
-id: OMIMPS:PS251450
+id: OMIMPS:251450
 name: Desbuquois dysplasia
 
 [Term]
-id: OMIMPS:PS251600
+id: OMIMPS:251600
 name: Microphthalmia, isolated
 
 [Term]
-id: OMIMPS:PS252010
+id: OMIMPS:252010
 name: Mitochondrial complex I deficiency, nuclear type
 
 [Term]
-id: OMIMPS:PS252150
+id: OMIMPS:252150
 name: Molybdenum cofactor deficiency
 
 [Term]
-id: OMIMPS:PS252350
+id: OMIMPS:252350
 name: Moyamoya disease
 
 [Term]
-id: OMIMPS:PS253310
+id: OMIMPS:253310
 name: Lethal congenital contracture syndrome
 
 [Term]
-id: OMIMPS:PS253600
+id: OMIMPS:253600
 name: Muscular dystrophy, limb-girdle, autosomal recessive
 
 [Term]
-id: OMIMPS:PS254090
+id: OMIMPS:254090
 name: Ullrich congenital muscular dystrophy
 
 [Term]
-id: OMIMPS:PS254130
+id: OMIMPS:254130
 name: Miyoshi muscular dystrophy
 
 [Term]
-id: OMIMPS:PS254770
+id: OMIMPS:254770
 name: Epilepsy, myoclonic juvenile
 
 [Term]
-id: OMIMPS:PS254800
+id: OMIMPS:254800
 name: Epilepsy, progressive myoclonic
 
 [Term]
-id: OMIMPS:PS256040
+id: OMIMPS:256040
 name: Proteosome-associated autoinflammatory syndrome
 
 [Term]
-id: OMIMPS:PS256100
+id: OMIMPS:256100
 name: Nephronophthisis
 
 [Term]
-id: OMIMPS:PS256300
+id: OMIMPS:256300
 name: Nephrotic syndrome
 
 [Term]
-id: OMIMPS:PS256450
+id: OMIMPS:256450
 name: Hyperinsulinemia hypoglycemia
 
 [Term]
-id: OMIMPS:PS256520
+id: OMIMPS:256520
 name: Neu-Laxova syndrome
 
 [Term]
-id: OMIMPS:PS256730
+id: OMIMPS:256730
 name: Ceroid lipofuscinoses
 
 [Term]
-id: OMIMPS:PS256850
+id: OMIMPS:256850
 name: Giant axonal neuropathy
 
 [Term]
-id: OMIMPS:PS257300
+id: OMIMPS:257300
 name: Mosaic variegated aneuploidy syndrome
 
 [Term]
-id: OMIMPS:PS257920
+id: OMIMPS:257920
 name: 3MC syndrome
 
 [Term]
-id: OMIMPS:PS258150
+id: OMIMPS:258150
 name: Spermatogenic failure
 
 [Term]
-id: OMIMPS:PS258315
+id: OMIMPS:258315
 name: Omodysplasia
 
 [Term]
-id: OMIMPS:PS259100
+id: OMIMPS:259100
 name: Hypertropic osteoarthropathy, primary
 
 [Term]
-id: OMIMPS:PS259700
+id: OMIMPS:259700
 name: Osteopetrosis, autosomal recessive
 
 [Term]
-id: OMIMPS:PS259900
+id: OMIMPS:259900
 name: Hyperoxaluria, primary
 
 [Term]
-id: OMIMPS:PS260370
+id: OMIMPS:260370
 name: Pancreatic agenesis
 
 [Term]
-id: OMIMPS:PS260400
+id: OMIMPS:260400
 name: Schwachman-Diamond syndrome
 
 [Term]
-id: OMIMPS:PS262400
+id: OMIMPS:262400
 name: Isolated growth hormone deficiency
 
 [Term]
-id: OMIMPS:PS265120
+id: OMIMPS:265120
 name: Sufactant metabolism dysfunction, pulmonary
 
 [Term]
-id: OMIMPS:PS265450
+id: OMIMPS:265450
 name: Pulmonary venoocclusive disease
 
 [Term]
-id: OMIMPS:PS266600
+id: OMIMPS:266600
 name: Inflammatory bowel disease
 
 [Term]
-id: OMIMPS:PS266900
+id: OMIMPS:266900
 name: Senior-Loken syndrome
 
 [Term]
-id: OMIMPS:PS267700
+id: OMIMPS:267700
 name: Hemophagocytic lymphohistiocytosis, familial
 
 [Term]
-id: OMIMPS:PS268000
+id: OMIMPS:268000
 name: Retinitis pigmentosa
 
 [Term]
-id: OMIMPS:PS268310
+id: OMIMPS:268310
 name: Robinow syndrome
 
 [Term]
-id: OMIMPS:PS268400
+id: OMIMPS:268400
 name: Rothmund-Thomson syndrome
 
 [Term]
-id: OMIMPS:PS269500
+id: OMIMPS:269500
 name: Sclerosteosis
 
 [Term]
-id: OMIMPS:PS270300
+id: OMIMPS:270300
 name: Peeling skin syndrome
 
 [Term]
-id: OMIMPS:PS271640
+id: OMIMPS:271640
 name: Spondyloepimetaphyseal dysplasia with joint laxity
 
 [Term]
-id: OMIMPS:PS271930
+id: OMIMPS:271930
 name: Striatonigral degeneration
 
 [Term]
-id: OMIMPS:PS272430
+id: OMIMPS:272430
 name: Cold-induced sweating syndrome
 
 [Term]
-id: OMIMPS:PS273750
+id: OMIMPS:273750
 name: Three M syndrome
 
 [Term]
-id: OMIMPS:PS275200
+id: OMIMPS:275200
 name: Hypothyroidism, congenital, nongoitrous
 
 [Term]
-id: OMIMPS:PS276700
+id: OMIMPS:276700
 name: Tyrosinemia
 
 [Term]
-id: OMIMPS:PS276900
+id: OMIMPS:276900
 name: Usher syndrome
 
 [Term]
-id: OMIMPS:PS277180
+id: OMIMPS:277180
 name: Vas deferens, congenital bilateral aplasia of
 
 [Term]
-id: OMIMPS:PS277300
+id: OMIMPS:277300
 name: Spondylocostal dysostosis
 
 [Term]
-id: OMIMPS:PS277450
+id: OMIMPS:277450
 name: Vitamin K-dependent clotting factors, combined deficiency of
 
 [Term]
-id: OMIMPS:PS277600
+id: OMIMPS:277600
 name: Weill-Marchesani syndrome
 
 [Term]
-id: OMIMPS:PS278300
+id: OMIMPS:278300
 name: Xanthinuria
 
 [Term]
-id: OMIMPS:PS300000
+id: OMIMPS:300000
 name: Opitz GBBB syndrome
 
 [Term]
-id: OMIMPS:PS300009
+id: OMIMPS:300009
 name: Dent disease
 
 [Term]
-id: OMIMPS:PS300049
+id: OMIMPS:300049
 name: Periventricular nodular heterotopia
 
 [Term]
-id: OMIMPS:PS300291
+id: OMIMPS:300291
 name: Ectodermal dysplasia and immune deficiency
 
 [Term]
-id: OMIMPS:PS300345
+id: OMIMPS:300345
 name: Microphthalmia, isolated, with coloboma
 
 [Term]
-id: OMIMPS:PS300352
+id: OMIMPS:300352
 name: Cerebral creatine deficiency syndrome
 
 [Term]
-id: OMIMPS:PS300633
+id: OMIMPS:300633
 name: Hypospadias
 
 [Term]
-id: OMIMPS:PS300751
+id: OMIMPS:300751
 name: Anemia, Sideroblastic
 
 [Term]
-id: OMIMPS:PS300755
+id: OMIMPS:300755
 name: Immunodeficiency (Select Examples)
 
 [Term]
-id: OMIMPS:PS300818
+id: OMIMPS:300818
 name: Paroxysmal nocturnal hemoglobinuria
 
 [Term]
-id: OMIMPS:PS301050
+id: OMIMPS:301050
 name: Alport syndrome
 
 [Term]
-id: OMIMPS:PS303350
+id: OMIMPS:303350
 name: Spastic paraplegia
 
 [Term]
-id: OMIMPS:PS304500
+id: OMIMPS:304500
 name: Deafness, X-linked
 
 [Term]
-id: OMIMPS:PS305100
+id: OMIMPS:305100
 name: Ectodermal dysplasia (select examples)
 
 [Term]
-id: OMIMPS:PS305620
+id: OMIMPS:305620
 name: Frontometaphyseal dysplasia
 
 [Term]
-id: OMIMPS:PS306400
+id: OMIMPS:306400
 name: Granulomatous disease, chronic
 
 [Term]
-id: OMIMPS:PS306955
+id: OMIMPS:306955
 name: Heterotaxy, visceral
 
 [Term]
-id: OMIMPS:PS308230
+id: OMIMPS:308230
 name: Immunodeficiency with hyper-IgM
 
 [Term]
-id: OMIMPS:PS308240
+id: OMIMPS:308240
 name: Lymphoproliferative syndrome
 
 [Term]
-id: OMIMPS:PS308350
+id: OMIMPS:308350
 name: Epileptic encephalopathy, early infantile
 
 [Term]
-id: OMIMPS:PS309510
+id: OMIMPS:309510
 name: Mental retardation, X-linked syndromic
 
 [Term]
-id: OMIMPS:PS309530
+id: OMIMPS:309530
 name: Mental retardation, nonsyndromic, X-linked
 
 [Term]
-id: OMIMPS:PS309800
+id: OMIMPS:309800
 name: Microphthalmia, syndromic
 
 [Term]
-id: OMIMPS:PS309801
+id: OMIMPS:309801
 name: Linear skin defects with multiple congenital anomalies
 
 [Term]
-id: OMIMPS:PS310300
+id: OMIMPS:310300
 name: Emery-Dreifuss muscular dystrophy
 
 [Term]
-id: OMIMPS:PS310500
+id: OMIMPS:310500
 name: Night blindness, congenital stationary
 
 [Term]
-id: OMIMPS:PS310700
+id: OMIMPS:310700
 name: Nystagmus, congenital
 
 [Term]
-id: OMIMPS:PS311200
+id: OMIMPS:311200
 name: Orofaciodigital syndrome
 
 [Term]
-id: OMIMPS:PS311360
+id: OMIMPS:311360
 name: Premature ovarian failure
 
 [Term]
-id: OMIMPS:PS312080
+id: OMIMPS:312080
 name: Leukodystrophy, hypomyelinating
 
 [Term]
-id: OMIMPS:PS312170
+id: OMIMPS:312170
 name: Pyruvate dehydrogenase complex deficiency
 
 [Term]
-id: OMIMPS:PS400043
+id: OMIMPS:400043
 name: Deafness, Y-linked
 
 [Term]
-id: OMIMPS:PS400044
+id: OMIMPS:400044
 name: 46,XY sex reversal
 
 [Term]
-id: OMIMPS:PS600118
+id: OMIMPS:600118
 name: Warburg micro syndrome
 
 [Term]
-id: OMIMPS:PS600131
+id: OMIMPS:600131
 name: Epilepsy, childhood absence
 
 [Term]
-id: OMIMPS:PS600165
+id: OMIMPS:600165
 name: Nanophthalmos
 
 [Term]
-id: OMIMPS:PS600462
+id: OMIMPS:600462
 name: Myopathy, lactic acidosis, and siderblastic anemia
 
 [Term]
-id: OMIMPS:PS600512
+id: OMIMPS:600512
 name: Epilepsy, familial temporal lobe
 
 [Term]
-id: OMIMPS:PS600513
+id: OMIMPS:600513
 name: Epilepsy, nocturnal frontal lobe
 
 [Term]
-id: OMIMPS:PS600630
+id: OMIMPS:600630
 name: UV-sensitive syndrome
 
 [Term]
-id: OMIMPS:PS600669
+id: OMIMPS:600669
 name: Epilepsy, idiopathic generalized
 
 [Term]
-id: OMIMPS:PS600721
+id: OMIMPS:600721
 name: D-2-hydroxyglutaric aciduria
 
 [Term]
-id: OMIMPS:PS600803
+id: OMIMPS:600803
 name: Gallbladder disease
 
 [Term]
-id: OMIMPS:PS601068
+id: OMIMPS:601068
 name: Epilepsy, familial adult myoclonic
 
 [Term]
-id: OMIMPS:PS601144
+id: OMIMPS:601144
 name: Brugada syndrome
 
 [Term]
-id: OMIMPS:PS601198
+id: OMIMPS:601198
 name: Hypocalcemia
 
 [Term]
-id: OMIMPS:PS601390
+id: OMIMPS:601390
 name: Van Maldergem syndrome
 
 [Term]
-id: OMIMPS:PS601419
+id: OMIMPS:601419
 name: Myopathy, myofibrillar
 
 [Term]
-id: OMIMPS:PS601462
+id: OMIMPS:601462
 name: Myasthenic syndrome, congenital
 
 [Term]
-id: OMIMPS:PS601471
+id: OMIMPS:601471
 name: Facial paresis, hereditary congenital
 
 [Term]
-id: OMIMPS:PS601495
+id: OMIMPS:601495
 name: Agammaglobulinemia
 
 [Term]
-id: OMIMPS:PS601675
+id: OMIMPS:601675
 name: Trichothiodystrophy
 
 [Term]
-id: OMIMPS:PS601678
+id: OMIMPS:601678
 name: Bartter syndrome
 
 [Term]
-id: OMIMPS:PS601764
+id: OMIMPS:601764
 name: Seizures, benign familial infantile
 
 [Term]
-id: OMIMPS:PS602014
+id: OMIMPS:602014
 name: Hypomagnesemia
 
 [Term]
-id: OMIMPS:PS602483
+id: OMIMPS:602483
 name: Auriculocondylar syndrome
 
 [Term]
-id: OMIMPS:PS603041
+id: OMIMPS:603041
 name: Mitochondrial DNA depletion syndrome
 
 [Term]
-id: OMIMPS:PS603075
+id: OMIMPS:603075
 name: Macular degeneration, age-related
 
 [Term]
-id: OMIMPS:PS603165
+id: OMIMPS:603165
 name: Dermatitis, atopic
 
 [Term]
-id: OMIMPS:PS603278
+id: OMIMPS:603278
 name: Focal segmental glomerulosclerosis
 
 [Term]
-id: OMIMPS:PS603387
+id: OMIMPS:603387
 name: Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome
 
 [Term]
-id: OMIMPS:PS603511
+id: OMIMPS:603511
 name: Muscular dystrophy, limb-girdle, autosomal dominant
 
 [Term]
-id: OMIMPS:PS603513
+id: OMIMPS:603513
 name: Spastic quadriplegic cerebral palsy
 
 [Term]
-id: OMIMPS:PS603933
+id: OMIMPS:603933
 name: Microvascular complications of diabetes
 
 [Term]
-id: OMIMPS:PS604004
+id: OMIMPS:604004
 name: Leukoencephalopathy, megalencephalic
 
 [Term]
-id: OMIMPS:PS604169
+id: OMIMPS:604169
 name: Left ventricular noncompaction
 
 [Term]
-id: OMIMPS:PS604233
+id: OMIMPS:604233
 name: Epilepsy, generalized, with febrile seizures plus
 
 [Term]
-id: OMIMPS:PS604273
+id: OMIMPS:604273
 name: Mitochondrial complex V (ATP synthase) deficiency, nuclear type
 
 [Term]
-id: OMIMPS:PS604348
+id: OMIMPS:604348
 name: Advanced sleep phase syndrome
 
 [Term]
-id: OMIMPS:PS604364
+id: OMIMPS:604364
 name: Epilepsy, familial focal, with variable foci
 
 [Term]
-id: OMIMPS:PS604370
+id: OMIMPS:604370
 name: Breast-ovarian cancer, familial, susceptibility to
 
 [Term]
-id: OMIMPS:PS604391
+id: OMIMPS:604391
 name: Ataxia-telangiectasia-like disorder
 
 [Term]
-id: OMIMPS:PS604772
+id: OMIMPS:604772
 name: Ventricular tachycardia, catecholaminergic polymorphic
 
 [Term]
-id: OMIMPS:PS604931
+id: OMIMPS:604931
 name: Cortisone reductase deficiency
 
 [Term]
-id: OMIMPS:PS605253
+id: OMIMPS:605253
 name: Neuropathy, congenital hypomelinating
 
 [Term]
-id: OMIMPS:PS605389
+id: OMIMPS:605389
 name: Hypotrichosis
 
 [Term]
-id: OMIMPS:PS605432
+id: OMIMPS:605432
 name: Radioulnar synostosis with amegakaryocytic thrombocytopenia
 
 [Term]
-id: OMIMPS:PS605552
+id: OMIMPS:605552
 name: Abdominal obesity-metabolic syndrome
 
 [Term]
-id: OMIMPS:PS605711
+id: OMIMPS:605711
 name: Multiple mitochondrial dysfunctions syndrome
 
 [Term]
-id: OMIMPS:PS606215
+id: OMIMPS:606215
 name: Atrioventricular septal defect
 
 [Term]
-id: OMIMPS:PS606711
+id: OMIMPS:606711
 name: Specific language impairment
 
 [Term]
-id: OMIMPS:PS606777
+id: OMIMPS:606777
 name: Glut1 deficiency syndrome
 
 [Term]
-id: OMIMPS:PS607014
+id: OMIMPS:607014
 name: Mucopolysaccharidoses
 
 [Term]
-id: OMIMPS:PS607086
+id: OMIMPS:607086
 name: Aortic aneurysm, familial thoracic
 
 [Term]
-id: OMIMPS:PS607095
+id: OMIMPS:607095
 name: Anauxetic dysplasia
 
 [Term]
-id: OMIMPS:PS607250
+id: OMIMPS:607250
 name: Spinocerebellar ataxia, autosomal recessive, with axonal neuropathy
 
 [Term]
-id: OMIMPS:PS607313
+id: OMIMPS:607313
 name: Gaze palsy, familial horizontal, with progressive scoliosis
 
 [Term]
-id: OMIMPS:PS607326
+id: OMIMPS:607326
 name: Smith-McCort dysplasia
 
 [Term]
-id: OMIMPS:PS607411
+id: OMIMPS:607411
 name: Patent ductus arteriosus
 
 [Term]
-id: OMIMPS:PS607426
+id: OMIMPS:607426
 name: Coenzyme Q10 deficiency, primary
 
 [Term]
-id: OMIMPS:PS607432
+id: OMIMPS:607432
 name: Lissencephaly
 
 [Term]
-id: OMIMPS:PS607594
+id: OMIMPS:607594
 name: Immunodeficiency, common variable
 
 [Term]
-id: OMIMPS:PS607596
+id: OMIMPS:607596
 name: Pontocerebellar hypoplasia
 
 [Term]
-id: OMIMPS:PS607631
+id: OMIMPS:607631
 name: Epilepsy, juvenile absence
 
 [Term]
-id: OMIMPS:PS607634
+id: OMIMPS:607634
 name: Osteopetrosis, autosomal dominant
 
 [Term]
-id: OMIMPS:PS607721
+id: OMIMPS:607721
 name: Noonan syndrome-like disorder with loose anagen hair
 
 [Term]
-id: OMIMPS:PS607765
+id: OMIMPS:607765
 name: Bile acid synthesis defect, congenital
 
 [Term]
-id: OMIMPS:PS608207
+id: OMIMPS:608207
 name: Kala-azar, susceptibility to
 
 [Term]
-id: OMIMPS:PS608354
+id: OMIMPS:608354
 name: Capillary malformation-arteriovenous malformation
 
 [Term]
-id: OMIMPS:PS608567
+id: OMIMPS:608567
 name: Sick sinus syndrome
 
 [Term]
-id: OMIMPS:PS608583
+id: OMIMPS:608583
 name: Atrial fibrillation, familial
 
 [Term]
-id: OMIMPS:PS608594
+id: OMIMPS:608594
 name: Lipodystrophy, congenital generalized
 
 [Term]
-id: OMIMPS:PS608638
+id: OMIMPS:608638
 name: Asperger syndrome, susceptibility to
 
 [Term]
-id: OMIMPS:PS608805
+id: OMIMPS:608805
 name: Avascular necrosis of femoral head, primary
 
 [Term]
-id: OMIMPS:PS609060
+id: OMIMPS:609060
 name: Combined oxidative phosphorylation deficiency
 
 [Term]
-id: OMIMPS:PS609129
+id: OMIMPS:609129
 name: Auditory neuropathy
 
 [Term]
-id: OMIMPS:PS609161
+id: OMIMPS:609161
 name: Striatal degeneration, autosomal dominant
 
 [Term]
-id: OMIMPS:PS609192
+id: OMIMPS:609192
 name: Loeys-Dietz syndrome
 
 [Term]
-id: OMIMPS:PS609308
+id: OMIMPS:609308
 name: Muscular dystrophy-dystroglycanopathy, type C
 
 [Term]
-id: OMIMPS:PS609322
+id: OMIMPS:609322
 name: Rhabdoid tumor predisposition syndrome
 
 [Term]
-id: OMIMPS:PS609620
+id: OMIMPS:609620
 name: Short QT syndrome
 
 [Term]
-id: OMIMPS:PS610253
+id: OMIMPS:610253
 name: Kleefstra syndrome
 
 [Term]
-id: OMIMPS:PS610448
+id: OMIMPS:610448
 name: Chilblain lupus
 
 [Term]
-id: OMIMPS:PS610460
+id: OMIMPS:610460
 name: Thiopurines, poor metabolism of
 
 [Term]
-id: OMIMPS:PS610489
+id: OMIMPS:610489
 name: Pigmented nodular adrenocortical disease, primary
 
 [Term]
-id: OMIMPS:PS610542
+id: OMIMPS:610542
 name: Myasthenic syndrome, congenital, with tubular aggregates
 
 [Term]
-id: OMIMPS:PS610551
+id: OMIMPS:610551
 name: Encephalopathy, acute, infection-induced
 
 [Term]
-id: OMIMPS:PS610799
+id: OMIMPS:610799
 name: Invasive pneumococcal disease, recurrent isolated
 
 [Term]
-id: OMIMPS:PS610805
+id: OMIMPS:610805
 name: Congenital anomalies of kidney and urinary tract
 
 [Term]
-id: OMIMPS:PS612199
+id: OMIMPS:612199
 name: Cerebroretinal microangiopathy with calcfications and cysts
 
 [Term]
-id: OMIMPS:PS612286
+id: OMIMPS:612286
 name: Nephrolithiasis/osteoporosis, hypophosphatemic
 
 [Term]
-id: OMIMPS:PS612975
+id: OMIMPS:612975
 name: Short sleep, familial natural
 
 [Term]
-id: OMIMPS:PS613038
+id: OMIMPS:613038
 name: Pituitary hormone deficiency, combined
 
 [Term]
-id: OMIMPS:PS613135
+id: OMIMPS:613135
 name: Parkinsonism-dystonia, infantile
 
 [Term]
-id: OMIMPS:PS613155
+id: OMIMPS:613155
 name: Muscular dystrophy-dystroglycanopathy, type B
 
 [Term]
-id: OMIMPS:PS613280
+id: OMIMPS:613280
 name: Hypermanganesemia with dystonia
 
 [Term]
-id: OMIMPS:PS613339
+id: OMIMPS:613339
 name: Hot water epilepsy
 
 [Term]
-id: OMIMPS:PS613573
+id: OMIMPS:613573
 name: Ectodermal dysplasia-syndactyly syndrome
 
 [Term]
-id: OMIMPS:PS614039
+id: OMIMPS:614039
 name: Cortical dysplasia, complex, with other brain malformations
 
 [Term]
-id: OMIMPS:PS614080
+id: OMIMPS:614080
 name: Multiple congenital anomalies-hypotonia-seizures syndrome
 
 [Term]
-id: OMIMPS:PS614328
+id: OMIMPS:614328
 name: Neonatal inflammatory skin and bowel disease
 
 [Term]
-id: OMIMPS:PS614372
+id: OMIMPS:614372
 name: Lectin complement activation pathway defects
 
 [Term]
-id: OMIMPS:PS614388
+id: OMIMPS:614388
 name: Encephalopathy due to defective mitochondrial and peroxisomal fission
 
 [Term]
-id: OMIMPS:PS614429
+id: OMIMPS:614429
 name: Ventricular septal defect
 
 [Term]
-id: OMIMPS:PS614675
+id: OMIMPS:614675
 name: Bone marrow failure syndrome
 
 [Term]
-id: OMIMPS:PS614742
+id: OMIMPS:614742
 name: Pulmonary fibrosis and/or bone marrow failure, telomere-related
 
 [Term]
-id: OMIMPS:PS614937
+id: OMIMPS:614937
 name: Myoclonus, Familial
 
 [Term]
-id: OMIMPS:PS615040
+id: OMIMPS:615040
 name: Familial episodic pain syndrome
 
 [Term]
-id: OMIMPS:PS615419
+id: OMIMPS:615419
 name: Hypotonia, infantile, with psychomotor retardation and characteristic facies
 
 [Term]
-id: OMIMPS:PS615438
+id: OMIMPS:615438
 name: Infantile liver failure syndrome
 
 [Term]
-id: OMIMPS:PS615774
+id: OMIMPS:615774
 name: Oocyte maturation defect
 
 [Term]
-id: OMIMPS:PS615895
+id: OMIMPS:615895
 name: Polyglucosan body myopathy
 
 [Term]
-id: OMIMPS:PS615952
+id: OMIMPS:615952
 name: Autoimmune disease, multisystem, infantile-onset
 
 [Term]
-id: OMIMPS:PS616418
+id: OMIMPS:616418
 name: Hypomagnesemia, seizures, and mental retardation
 
 [Term]
-id: OMIMPS:PS616814
+id: OMIMPS:616814
 name: Preimplantation embryonic lethality
 
 [Term]
-id: OMIMPS:PS616866
+id: OMIMPS:616866
 name: Spinal muscular atrophy with congenital bone fractures
 
 [Term]
-id: OMIMPS:PS617186
+id: OMIMPS:617186
 name: Encephalopathy, progressive, early-onset, with brain edema and/or leukoencephalopathy
 
 [Term]
-id: OMIMPS:PS617236
+id: OMIMPS:617236
 name: Cone-rod dystrophy and hearing loss
 
 [Term]
-id: OMIMPS:PS617711
+id: OMIMPS:617711
 name: Epileptic encephalopathy, infantile or early childhood
 
 [Term]
-id: OMIMPS:PS618005
+id: OMIMPS:618005
 name: Congenital disorder of glycosylation with defective fucosylation
 
 [Term]
-id: OMIMPS:PS618332
+id: OMIMPS:618332
 name: Menke-Hennekam syndrome
 
