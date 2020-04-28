@@ -8,7 +8,7 @@ stage-%: %
 	cp $< $(TGT)
 
 omim-src.ttl:
-	wget --no-check-certificate http://data.monarchinitiative.org/ttl/omim.ttl -O $@
+	wget --no-check-certificate https://data.monarchinitiative.org/experimental/omim.ttl -O $@
 .PRECIOUS: omim.ttl
 
 omim-src.owl: omim-src.ttl
