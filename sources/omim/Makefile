@@ -18,6 +18,6 @@ omim-src.obo: omim-src.owl
 
 # this gets rid of genes
 omim.obo: omim-src.obo
-	obo-grep.pl --neg -r '(equivalent_to|is_a: SO|property_value: RO:0002524)' $< | perl -npe 's@http://omim.org/entry/@OMIM:@g;s@http://www.omim.org/phenotypicSeries/PS@OMIMPS:@g' |  obo-grep.pl -r 'id: OMIM' -   > $@.tmp && mv $@.tmp $@
+	obo-grep.pl --neg -r '(equivalent_to|is_a: SO|property_value: RO:0002524)' $< | obo-grep.pl -r 'property_value: https://w3id.org/biolink/vocab/category https://w3id.org/biolink/vocab/Disease' - | perl -npe 's@http://omim.org/entry/@OMIM:@g;s@http://www.omim.org/phenotypicSeries/PS@OMIMPS:@g' |  obo-grep.pl -r 'id: OMIM' -   > $@.tmp && mv $@.tmp $@
 omim.owl: omim.obo
 	owltools $< --set-ontology-id http://purl.obolibrary.org/obo/omim.owl -o -f obo $@
