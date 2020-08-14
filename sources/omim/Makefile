@@ -1,5 +1,5 @@
 TGT=../../target/
-PRODUCTS = omim.obo
+PRODUCTS = omim.owl
 OMIM_URL=https://archive.monarchinitiative.org/alpha/rdf/omim.ttl
 
 all:  build stage
@@ -26,3 +26,6 @@ omim-src.obo: omim-src.owl
 omim.obo: omim-src.obo
 	../../utils/obo-grepl.pl --neg -r '(equivalent_to|is_a: SO|property_value: RO:0002524)' $< | ../../utils/obo-grepl.pl -r 'property_value: https://w3id.org/biolink/vocab/category https://w3id.org/biolink/vocab/Disease' - | perl -npe 's@http://omim.org/entry/@OMIM:@g;s@http://www.omim.org/phenotypicSeries/PS@OMIMPS:@g' |  ../../utils/obo-grepl.pl -r 'id: OMIM' -   > $@.tmp.obo
 	owltools $@.tmp.obo --set-ontology-id http://purl.obolibrary.org/obo/omim.owl -o -f obo $@ && rm $@.tmp.obo
+
+omim.owl: omim.obo
+	owltools $< --set-ontology-id http://purl.obolibrary.org/obo/omim.owl -o -f obo $@
