@@ -1,4 +1,4 @@
-SOURCES = medgen
+SOURCES = omim
 TARGET=target
 all: build_sources
 
